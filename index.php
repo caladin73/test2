@@ -14,5 +14,12 @@ and open the template in the editor.
         echo "git push 2";
         echo 'test';
         ?>
+         <?php
+        echo "git push 2";
+        ?>
+        
+                 <?php
+        echo "git push 2";
+        ?>
     </body>
 </html>
